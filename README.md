@@ -203,6 +203,4 @@ MIT — free to use, fork, and adapt with attribution.
   <img src="https://img.shields.io/badge/Built%20with-Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Powered%20by-Vanilla%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
